@@ -24,7 +24,7 @@ A supermarket chain is looking to expand their business. The company leadership 
 6) Average Order Value and Gross Margine Percentages
 7) Gross Income by cities and Branches
 
-## 🧠 **Insights**
+## **Insights**
 
 ### **1. Branch Performance**
 
@@ -59,7 +59,7 @@ A supermarket chain is looking to expand their business. The company leadership 
 
 ---
 
-## 💡 **Recommendations**
+##  **Recommendations**
 
 1. **Boost Branch Performance**
 
