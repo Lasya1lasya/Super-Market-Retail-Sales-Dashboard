@@ -16,10 +16,10 @@ The dataset is also from 2019 and may not reflect current consumer trends.
 
 ## Overview
 A supermarket chain is looking to expand their business. The company leadership team has provided the data team with historical supermarket sales data. Leadership is interested in finding answers to several questions:
-1.Number of Transactions by Branches
-2.Gross Income by Product Line by Branches
-3.Gross Income Changes by Branches
-4.Average Customer Ratings,Gross Income by Gender and Payment Methods by Branches
-5.Customer Spends Overview(Low,High,Medium Spends By Customers)
-6.Average Order Value and Gross Margine Percentages
-7.Gross Income by cities and Branches
+1) Number of Transactions by Branches
+2) Gross Income by Product Line by Branches
+3) Gross Income Changes by Branches
+4) Average Customer Ratings,Gross Income by Gender and Payment Methods by Branches
+5) Customer Spends Overview(Low,High,Medium Spends By Customers)
+6) Average Order Value and Gross Margine Percentages
+7) Gross Income by cities and Branches
