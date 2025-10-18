@@ -23,3 +23,74 @@ A supermarket chain is looking to expand their business. The company leadership 
 5) Customer Spends Overview(Low,High,Medium Spends By Customers)
 6) Average Order Value and Gross Margine Percentages
 7) Gross Income by cities and Branches
+
+## 🧠 **Insights**
+
+### **1. Branch Performance**
+
+* **Branch A** recorded the **highest number of customer transactions (340)**, followed closely by **Branch B (332)** and **Branch C (328)**.
+* Despite fewer transactions, **Branch C achieved the highest gross income (≈5.3K)** — indicating **higher-value purchases per customer**.
+
+### **2. Customer Type Analysis**
+
+* **Members (50.85%)** contributed slightly higher income than **Normal customers (49.15%)**, showing that the **loyalty program is driving better revenue**.
+
+### **3. Product Line Performance**
+
+* **Food and Beverages** and **Fashion Accessories** have the **highest gross margin income** across all branches (≈6.5–6.6%).
+* **Health & Beauty** and **Sports & Travel** show **lower profit margins**, suggesting potential areas for promotional offers or price optimization.
+
+### **4. Gender-Based Insights**
+
+* **Female customers (51.98%)** generated more income than **male customers (48.02%)**, showing **stronger purchasing engagement** from female shoppers.
+
+### **5. Customer Ratings**
+
+* The **average customer rating is 7/10**, reflecting **moderate satisfaction**. There is room for improvement through better service quality and offers.
+
+### **6. Payment Method Preferences**
+
+* Payments are **evenly distributed** among **E-wallet (34.5%)**, **Cash (34.4%)**, and **Credit Card (31.1%)**, showing customers use **diverse payment options**.
+
+### **7. Spending Segmentation**
+
+* **Low spenders** form the largest customer group (**37.69%**), followed by **medium spenders (34.39%)** and **high spenders (27.92%)**.
+* There’s an opportunity to **upsell low and medium spenders** through personalized promotions.
+
+---
+
+## 💡 **Recommendations**
+
+1. **Boost Branch Performance**
+
+   * Analyze and replicate **Branch C’s sales strategy** in other branches to increase overall income efficiency.
+
+2. **Enhance Member Loyalty**
+
+   * Offer **exclusive discounts and early access deals** to members to further increase member-driven revenue.
+
+3. **Focus on High-Margin Categories**
+
+   * Promote **Food & Beverages** and **Fashion Accessories** through targeted campaigns.
+   * Consider **bundle offers** for low-margin products like **Health & Beauty**.
+
+4. **Improve Customer Satisfaction**
+
+   * Conduct **post-purchase surveys** or introduce **loyalty points** for feedback to push ratings above 8/10.
+
+5. **Encourage Digital Payments**
+
+   * Provide **cashback or reward points** for E-wallet or credit card users to encourage faster, traceable transactions.
+
+6. **Convert Low Spenders**
+
+   * Launch **personalized product recommendations**, **discount vouchers**, and **membership offers** to turn low spenders into medium or high spenders.
+
+7. **Gender-Based Marketing**
+
+   * Since female customers drive higher revenue, introduce **female-oriented campaigns** or **category expansions** (e.g., fashion, beauty, wellness).
+
+
+
+
+   
