@@ -14,7 +14,7 @@ Another limitation of the data is that the sales were captured during a relative
 
 The dataset is also from 2019 and may not reflect current consumer trends.
 
-##Overview
+## Overview
 A supermarket chain is looking to expand their business. The company leadership team has provided the data team with historical supermarket sales data. Leadership is interested in finding answers to several questions:
 1.Number of Transactions by Branches
 2.Gross Income by Product Line by Branches
