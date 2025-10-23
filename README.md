@@ -29,6 +29,48 @@ A supermarket chain is looking to expand their business. The company leadership 
 6) Average Order Value and Gross Margine Percentages
 7) Gross Income by cities and Branches
 
+## Role-Based Security (RLS) Implementation
+
+To protect branch-specific data and control user access, Row-Level Security (RLS) was configured in Power BI.
+
+Roles Created
+
+Role Name	Access Level	Description
+
+SalesManager	Full Access	Can view sales data across all branches.
+1) BranchA_Manager	Restricted	Can view data for Branch A only.
+2) BranchB_Manager	Restricted	Can view data for Branch B only.
+3)BranchC_Manager	Restricted	Can view data for Branch C only.
+Implementation Steps
+
+Created roles in Power BI Desktop → Modeling → Manage Roles.
+
+Added DAX filters to restrict visibility by branch:
+
+1) [Branch] = "A"
+2) [Branch] = "B"
+3) [Branch] = "C"
+
+
+Published the dataset to Power BI Service and assigned roles under Dataset → Security.
+
+Tested with “View as Role” to verify restricted access for each branch manager.
+
+## Outcome
+
+Ensured that each branch manager only views their respective sales data.
+
+Enhanced data security, governance, and compliance within Power BI Service.
+
+## Tech Stack
+
+Power BI Desktop → Data modeling & visualization
+
+Power BI Service → Publishing, RLS setup, and online access control
+
+DAX → Measures & KPIs (Gross Margin, Total Income, Transactions)
+
+Excel/CSV → Data source for branch-level sales
 ## **Insights**
 
 ### **1. Branch Performance**
