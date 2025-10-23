@@ -39,8 +39,8 @@ SalesManager	Full Access	Can view sales data across all branches.
 1) BranchA_Manager	Restricted	Can view data for Branch A only.
 2) BranchB_Manager	Restricted	Can view data for Branch B only.
 3) BranchC_Manager	Restricted	Can view data for Branch C only.
-4) 
-Implementation Steps
+
+## Implementation Steps
 
 Created roles in Power BI Desktop → Modeling → Manage Roles.
 
