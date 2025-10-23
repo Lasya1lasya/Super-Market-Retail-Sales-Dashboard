@@ -33,14 +33,13 @@ A supermarket chain is looking to expand their business. The company leadership 
 
 To protect branch-specific data and control user access, Row-Level Security (RLS) was configured in Power BI.
 
-Roles Created
-
 Role Name	Access Level	Description
 
 SalesManager	Full Access	Can view sales data across all branches.
 1) BranchA_Manager	Restricted	Can view data for Branch A only.
 2) BranchB_Manager	Restricted	Can view data for Branch B only.
-3)BranchC_Manager	Restricted	Can view data for Branch C only.
+3) BranchC_Manager	Restricted	Can view data for Branch C only.
+4) 
 Implementation Steps
 
 Created roles in Power BI Desktop → Modeling → Manage Roles.
@@ -71,6 +70,7 @@ Power BI Service → Publishing, RLS setup, and online access control
 DAX → Measures & KPIs (Gross Margin, Total Income, Transactions)
 
 Excel/CSV → Data source for branch-level sales
+
 ## **Insights**
 
 ### **1. Branch Performance**
@@ -104,40 +104,3 @@ Excel/CSV → Data source for branch-level sales
 * **Low spenders** form the largest customer group (**37.69%**), followed by **medium spenders (34.39%)** and **high spenders (27.92%)**.
 * There’s an opportunity to **upsell low and medium spenders** through personalized promotions.
 
----
-
-##  **Recommendations**
-
-1. **Boost Branch Performance**
-
-   * Analyze and replicate **Branch C’s sales strategy** in other branches to increase overall income efficiency.
-
-2. **Enhance Member Loyalty**
-
-   * Offer **exclusive discounts and early access deals** to members to further increase member-driven revenue.
-
-3. **Focus on High-Margin Categories**
-
-   * Promote **Food & Beverages** and **Fashion Accessories** through targeted campaigns.
-   * Consider **bundle offers** for low-margin products like **Health & Beauty**.
-
-4. **Improve Customer Satisfaction**
-
-   * Conduct **post-purchase surveys** or introduce **loyalty points** for feedback to push ratings above 8/10.
-
-5. **Encourage Digital Payments**
-
-   * Provide **cashback or reward points** for E-wallet or credit card users to encourage faster, traceable transactions.
-
-6. **Convert Low Spenders**
-
-   * Launch **personalized product recommendations**, **discount vouchers**, and **membership offers** to turn low spenders into medium or high spenders.
-
-7. **Gender-Based Marketing**
-
-   * Since female customers drive higher revenue, introduce **female-oriented campaigns** or **category expansions** (e.g., fashion, beauty, wellness).
-
-
-
-
-   
