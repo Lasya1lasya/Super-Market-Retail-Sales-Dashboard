@@ -12,9 +12,11 @@ limitation of the data is that the sales were captured during a relatively short
 
 The dataset is also from 2019 and may not reflect current consumer trends.
 
-![Uploading Screenshot 2025-10-18 194833.png…]()
-![Uploading Screenshot 2025-10-18 194850.png…]()
-![Uploading Screenshot 2025-10-18 194902.png…]()
+<img width="1323" height="735" alt="Screenshot 2025-10-18 194833" src="https://github.com/user-attachments/assets/f57cd4dd-5fe6-444a-aeac-b392c7ab5e0a" />
+<img width="1311" height="716" alt="Screenshot 2025-10-18 194850" src="https://github.com/user-attachments/assets/de81409d-4043-4164-a9f1-d1413d6c43cb" />
+<img width="1292" height="643" alt="Screenshot 2025-10-18 194902" src="https://github.com/user-attachments/assets/45e2bbd9-c240-498c-9fa3-7e0aa450fe49" />
+
+
 
 
 ## Overview
